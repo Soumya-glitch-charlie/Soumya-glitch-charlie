@@ -17,7 +17,7 @@
 
 
 
-- :telescope: I am currently pursuing Electronics and Comm. Engineering, learning to design and innovate cutting-edge technologies.
+- :telescope: I am currently pursuing B.TECH in Electronics and Comm. Engineering, learning to design and innovate cutting-edge technologies.
 
 - :seedling: Exploring the vast realm of technology with curiosity and passion.
 
