@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there Fellas !! 👋
 <div id="header" align="center">
   <img src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" width="317"/>
 </div>
@@ -47,7 +47,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Soumya-glitch-charlie&theme=highcontrast)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-glitch-charlie&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-glitch-charlie&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
