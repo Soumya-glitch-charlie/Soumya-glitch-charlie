@@ -38,7 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MatLab"  alt="MatLab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" backgroundcolor="white" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" background-color="white" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
 
@@ -47,7 +47,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Soumya-glitch-charlie&theme=highcontrast)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-glitch-charlie&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-glitch-charlie&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Soumya-glitch-charlie/Soumya-glitch-charlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
