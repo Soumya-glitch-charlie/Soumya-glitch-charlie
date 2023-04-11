@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/soumyadeep-das-b129971bb">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white%22%20alt=%22LinkedIn%20Badge" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/Soumya-glitch-charlie">
     <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&logoColor=grey%22%20alt=%22Github%20Badge" alt="Github Badge"/>
@@ -19,7 +19,7 @@
 
 - :telescope: I’m working as a Electronics and Comm. Engineer and contributing to Problem Solving using Python and its modules, DSA is my hobby .
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Content Writing and Discovering .
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, LeetCode, Codechef, HackerRank and read tech articles.
 
@@ -39,6 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" background-color="white" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
 
