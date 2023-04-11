@@ -17,9 +17,9 @@
 
 
 
-- :telescope: I’m working as a Electronics and Comm. Engineer and contributing to Problem Solving using Python and its modules, DSA is my hobby .
+- :telescope: I am currently pursuing Electronics and Comm. Engineering, learning to design and innovate cutting-edge technologies.
 
-- :seedling: Exploring Technical Content Writing and Discovering .
+- :seedling: Exploring the vast realm of technology with curiosity and passion.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, LeetCode, Codechef, HackerRank and read tech articles.
 
