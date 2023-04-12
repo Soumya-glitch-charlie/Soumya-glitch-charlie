@@ -1,7 +1,8 @@
 <h1 align="center"><p align="center">
   <a href="https://github.com/Soumya-glitch-charlie">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20There%20Fellas%20!!👋;I am Soumyadeep%20a.k.a%20Soumya%20-glitch%20-charlie;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p></h1>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20There%20Fellas%20!!👋;I%20am%20Soumyadeep%20a.k.a%20Soumya%20-glitch%20-charlie;Always%20learning%20new%20things&font=TiltPrism%20Code&center=true&width=500&height=60&color=80e8e0&vCenter=true&pause=1000&size=22" />
+  </a></p>
+</h1>
 
 <div id="header" align="center">
   <img src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" width="335"/>
