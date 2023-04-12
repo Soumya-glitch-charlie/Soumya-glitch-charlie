@@ -1,8 +1,8 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Soumya-glitch-charlie&label=Profile%20views&color=0e75b6&style=flat" alt="Soumya-glitch-charlie" /> </p>
+<p align="left"><p></p><img src="https://komarev.com/ghpvc/?username=Soumya-glitch-charlie&label=Profile%20Views(👀) :&color=0e75b6&style=flat" alt="Soumya-glitch-charlie"/></p>
 
 <h1 align="center"><p align="center">
   <a href="https://github.com/Soumya-glitch-charlie">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20There%20Fellas%20!!👋;I%20am%20Soumyadeep%20a.k.a%20Soumya-glitch-charlie...;Always%20learning%20new%20things...;and%20trying%20to%20implement%20them...&font=Forum%20Code&center=true&width=1000&height=70&color=3BD1C0&vCenter=true&pause=1000&size=35" />
+    <img src="https://readme-typing-svg.demolab.com?&font=Russo+One&lines=Hi%20There%20Fellas%20!! 🗣️;I%20am%20Soumyadeep%20a.k.a%20Soumya-glitch-charlie...;Always%20learning%20new%20things...;and%20trying%20to%20implement%20them...&%20Code&center=true&width=1000&height=70&color=FF56EAFF&vCenter=true&pause=1000&size=35"/>
   </a></p>
 </h1>
 
@@ -30,7 +30,7 @@
 
 - :bulb: In my free time, I solve problems on GeeksforGeeks, LeetCode, Codechef, HackerRank and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Soumyadeep-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadeep-das-b129971bb/)  [![Twitter Badge](https://img.shields.io/badge/-Soumyadeep-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kittu34823704/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Soumyadeep-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadeep-das-b129971bb/)  [![Twitter Badge](https://img.shields.io/badge/-Soumyadeep-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kittu34823704/)  [![Gmail Badge](https://img.shields.io/badge/-soumyadeepdas0712@gmail.com-grey?style=flat&logo=gmail&logoColor=white)](soumyadeepdas0712@gmail.com/)
 
 
 
@@ -46,7 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MatLab"  alt="MatLab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" background-color="white" title="Raspberry Pi" alt="Raspberry Pi" zoom="30" width="50" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" background-color="white" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
@@ -68,16 +68,17 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Soumyadeep's Github Stats" src="https://Soumya-glitch-charlie-github-readme-stats.vercel.app/api/?username=Soumya-glitch-charlie&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Soumyadeep's Top Languages" src="https://Soumya-glitch-charlie-github-readme-stats.vercel.app/api/top-langs/?username=Soumya-glitch-charlie&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
-
+  <p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumya-glitch-charlie&show_icons=true&theme=merko&locale=en&layout=compact" alt="Soumya-glitch-charlie"/>&nbsp;</p>
+  
+  <p>&nbsp;<img align="upper-right" src="https://github-readme-stats.vercel.app/api?username=Soumya-glitch-charlie&show_icons=true&theme=merko&locale=en&layout=compact" alt="Soumya-glitch-charlie"/></p>
+  
+  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Soumyadeep's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Soumya-glitch-charlie&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Soumyadeep's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Soumya-glitch-charlie&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/></a>
+  
 
 <!--
 **Soumya-glitch-charlie/Soumya-glitch-charlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
