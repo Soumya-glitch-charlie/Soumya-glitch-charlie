@@ -1,8 +1,10 @@
-### Hi there Fellas !! 👋 I am Soumyadeep a.k.a Soumya-glitch-charlie 
-
+<h1 align="center"><p align="center">
+  <a href="https://github.com/Soumya-glitch-charlie">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20There%20Fellas%20!!👋;I am Soumyadeep%20a.k.a%20Soumya%20-glitch%20-charlie;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p></h1>
 
 <div id="header" align="center">
-  <img src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" width="317"/>
+  <img src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" width="335"/>
 </div>
 
 <div id="badges" align="center">
