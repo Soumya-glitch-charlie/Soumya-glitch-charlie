@@ -12,8 +12,8 @@
   <a href="https://www.linkedin.com/in/soumyadeep-das-b129971bb">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white%22%20alt=%22LinkedIn%20Badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/Soumya-glitch-charlie">
-    <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&logoColor=grey%22%20alt=%22Github%20Badge" alt="Github Badge"/>
+  <a href="https://www.codechef.com/users/sdas_321">
+    <img src="https://img.shields.io/badge/Codechef-grey?style=for-the-badge&logo=codechef&logoColor=grey%22%20alt=%22Codechef%20Badge" alt="Codechef Badge"/>
   </a>
 </div>
 
