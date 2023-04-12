@@ -2,7 +2,7 @@
 
 <h1 align="center"><p align="center">
   <a href="https://github.com/Soumya-glitch-charlie">
-    <img src="https://readme-typing-svg.demolab.com?&font=Russo+One&lines=Hi%20There%20Fellas%20!! 🗣️;I%20am%20Soumyadeep%20a.k.a%20Soumya-glitch-charlie...;Always%20learning%20new%20things...;and%20trying%20to%20implement%20them...&%20Code&center=true&width=1000&height=70&color=FF56EAFF&vCenter=true&pause=1000&size=35"/>
+    <img src="https://readme-typing-svg.demolab.com?&font=Russo+One&lines=Hi%20There%20Fellas%20!! 🗣️;I%20am%20Soumyadeep%20a.k.a%20Soumya-glitch-charlie...;Always%20learning%20new%20things...;and%20trying%20to%20implement%20them...&%20Code&center=true&width=1000&height=70&color=FF56EAFF&vCenter=true&pause=1000&size=50"/>
   </a></p>
 </h1>
 
