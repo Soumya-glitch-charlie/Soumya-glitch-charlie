@@ -1,6 +1,6 @@
 <h1 align="center"><p align="center">
   <a href="https://github.com/Soumya-glitch-charlie">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20There%20Fellas%20!!👋;I%20am%20Soumyadeep%20a.k.a%20Soumya-glitch-charlie;Always%20learning%20new%20things;and%20trying%20to%20implement%20them....&font=Forum%20Code&center=true&width=800&height=70&color=3BD1C0&vCenter=true&pause=1000&size=35" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20There%20Fellas%20!!👋;I%20am%20Soumyadeep%20a.k.a%20Soumya-glitch-charlie...;Always%20learning%20new%20things...;and%20trying%20to%20implement%20them...&font=Forum%20Code&center=true&width=1000&height=70&color=3BD1C0&vCenter=true&pause=1000&size=35" />
   </a></p>
 </h1>
 
@@ -22,18 +22,19 @@
 
 
 
-- :telescope: I am currently pursuing B.TECH in Electronics and Comm. Engineering, learning to design and innovate cutting-edge technologies.
+- 🌟 I am currently pursuing B.TECH in Electronics and Comm. Engineering, learning to design and innovate cutting-edge technologies.
 
-- :seedling: Exploring the vast realm of technology with curiosity and passion.
+- :mag_right: Exploring the vast realm of technology with curiosity and passion.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks, LeetCode, Codechef, HackerRank and read tech articles.
+- :bulb: In my free time, I solve problems on GeeksforGeeks, LeetCode, Codechef, HackerRank and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Soumyadeep-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadeep-das-b129971bb/)
-
-
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Soumyadeep-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadeep-das-b129971bb/)  [![Twitter Badge](https://img.shields.io/badge/-Soumyadeep-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kittu34823704/)
 
 
-### :hammer_and_wrench: Languages and Tools :
+
+
+<h3> :hammer_and_wrench: Languages and Tools : 
+</h3>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="Cpp" width="40" height="40"/>&nbsp;
