@@ -1,4 +1,4 @@
-### Hi there Fellas !! 👋 I am Soumyadeep Das a.k.a Soumya-glitch-charlie 
+### Hi there Fellas !! 👋 I am Soumyadeep a.k.a Soumya-glitch-charlie 
 
 
 <div id="header" align="center">
