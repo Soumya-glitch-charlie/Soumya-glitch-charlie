@@ -39,6 +39,7 @@
 </h3>
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS CODE" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="Cpp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -68,9 +69,8 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumya-glitch-charlie&show_icons=true&theme=merko&locale=en&layout=compact" alt="Soumya-glitch-charlie"/>&nbsp;</p>
-  
-  <p>&nbsp;<img align="upper-right" src="https://github-readme-stats.vercel.app/api?username=Soumya-glitch-charlie&show_icons=true&theme=merko&locale=en&layout=compact" alt="Soumya-glitch-charlie"/></p>
+  <p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumya-glitch-charlie&show_icons=true&theme=merko&locale=en&layout=compact" alt="Soumya-glitch-charlie"/>&nbsp;
+     <img align="upper-right" src="https://github-readme-stats.vercel.app/api?username=Soumya-glitch-charlie&show_icons=true&theme=merko&locale=en&layout=compact" alt="Soumya-glitch-charlie"/></p>
   
   
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
