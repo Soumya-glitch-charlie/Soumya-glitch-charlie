@@ -1,4 +1,5 @@
-<p align="left"><p></p><img src="https://komarev.com/ghpvc/?username=Soumya-glitch-charlie&label=Profile%20Views(👀) :&color=0e75b6&style=flat" alt="Soumya-glitch-charlie"/></p>
+<p align="left"><p> </p><img src="https://komarev.com/ghpvc/?username=Soumya-glitch-charlie&label=Profile%20views&color=9834eb&style=social" alt="Soumya-glitch-charlie"/>
+</p>
 
 <h1 align="center"><p align="center">
   <a href="https://github.com/Soumya-glitch-charlie">
