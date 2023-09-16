@@ -8,7 +8,7 @@
 </h1>
 
 <div id="header" align="center">
-  <img src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" width="335"/>
+  <img src="https://media.tenor.com/77IymeWcaBgAAAAC/coding-programming.gif" width="335"/>
 </div>
 
 <div id="badges" align="center">
@@ -29,15 +29,15 @@
 
 - :mag_right: Exploring the vast realm of technology with curiosity and passion.
 
-- :bulb: In my free time, I solve problems on GeeksforGeeks, Codechef, HackerRank and read tech articles.
+- :bulb: In my free time, I solve problems on GeeksforGeeks, Codechef, and HackerRank and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Soumyadeep-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadeep-das-b129971bb/)  [![Twitter Badge](https://img.shields.io/badge/-Soumyadeep-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kittu34823704/)  ![Gmail Badge](https://img.shields.io/badge/-soumyadeepdas0712@gmail.com-grey?style=flat&logo=gmail&logoColor=white)
 
 
 
 
-<h3> :hammer_and_wrench: Languages and Tools : 
-</h3>
+<h2> :hammer_and_wrench: Languages and Tools : 
+</h2>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS CODE" width="40" height="40"/>&nbsp;
@@ -56,7 +56,8 @@
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
-  <h3>🔥 Streak Stats</h3>
+
+  <h2>🔥 Streak Stats 🔥</h2>
 
   <!-- GitHub Readme Streak Stats - https://github.com/Soumya-glitch-charlie/github-readme-streak-stats -->
   <p>
@@ -65,23 +66,26 @@
     </a>
     
 
-  <h3>💻 GitHub Profile Stats</h3>
+  <h2>💻 GitHub Profile Stats</h2>
 
 
-  <p>
-  <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumya-glitch-charlie&show_icons=true&theme=merko&locale=en&layout=compact" alt="Soumya-glitch-charlie"/>&nbsp; 
+ <div align="center">
+<table>
   
-  <img align="upper-right" src="[![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumya-glitch-charlie&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)/>
-  </p>
-  
-  
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
+| My Github Stats             | My most used languages |
+:-:|:-:
+[![Stats](https://acedev003-readme-stats.vercel.app/api?username=Soumya-glitch-charlie&show_icons=true&theme=merko&count_private=true&hide=issues,contribs)](https://github.com/Soumya-glitch-charlie)|[![Langs](https://acedev003-readme-stats.vercel.app/api/top-langs/?username=Soumya-glitch-charlie&layout=compact&theme=merko&hide=c%2b%2b)](https://github.com/Soumya-glitch-charlie)
+</table>
+  </div>
 
-  
-  <a href="https://github.com/Soumya-glitch-charlie/github-readme-activity-graph"><img alt="Soumyadeep's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Soumya-glitch-charlie&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/></a>
-  
+<h2></h2>
+     
+###
+[![Contributions](https://fabianocouto-activity-graph.vercel.app/graph/?username=Soumya-glitch-charlie&theme=merko)](https://github.com/Soumya-glitch-charlie)
 
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
 <!--
 **Soumya-glitch-charlie/Soumya-glitch-charlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
