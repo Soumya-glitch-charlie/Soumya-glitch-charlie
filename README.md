@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header"/>
+
 <p align="left"><p> </p><img src="https://komarev.com/ghpvc/?username=Soumya-glitch-charlie&label=Profile%20views&color=9834eb&style=social" alt="Soumya-glitch-charlie"/>
 </p>
 
@@ -83,11 +85,28 @@
 ###
 [![Contributions](https://fabianocouto-activity-graph.vercel.app/graph/?username=Soumya-glitch-charlie&theme=merko)](https://github.com/Soumya-glitch-charlie)
 
-<p align="right">
-<b><i>Note:</i></b> <i>The top languages used in a developer's public code do not necessarily reflect their experience level or skill level on any grounds. </i>
+<br></br>
+
 <br>
-<b><i>© 2023 Soumyadeep Das</i></b>
+    <p><h2 align="center">The Serpentine Path of Progress 🐍</h2></p>
+<picture align="right">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tgentil/Tgentil/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tgentil/Tgentil/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tgentil/Tgentil/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br>
+
+<p align="left">
+<b><i>Note:</i></b> <i>The top languages used in a developer's public code do not necessarily reflect their experience level or skill level on any grounds. </i>
 </p>
+<br>
+<p align="right">
+<b><i>Soumyadeep Das © 2023</i></b>
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=footer"/>
+
 <!--
 **Soumya-glitch-charlie/Soumya-glitch-charlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
