@@ -63,25 +63,23 @@
     <a href="https://github.com/Soumya-glitch-charlie/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Soumyadeep's streak" src="https://streak-stats.demolab.com/?user=Soumya-glitch-charlie&theme=monokai-metallian&hide_border=true"/>
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-  </p>
+    
 
   <h3>💻 GitHub Profile Stats</h3>
 
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
 
   <p>
   <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumya-glitch-charlie&show_icons=true&theme=merko&locale=en&layout=compact" alt="Soumya-glitch-charlie"/>&nbsp; 
   
-  <img align="upper-right" src="https://github-readme-stats.vercel.app/api?username=Soumya-glitch-charlie&show_icons=true&theme=merko&locale=en&layout=compact" alt="Soumya-glitch-charlie"/>
+  <img align="upper-right" src="[![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumya-glitch-charlie&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)/>
   </p>
   
   
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Soumyadeep's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Soumya-glitch-charlie&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/></a>
+  
+  <a href="https://github.com/Soumya-glitch-charlie/github-readme-activity-graph"><img alt="Soumyadeep's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Soumya-glitch-charlie&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/></a>
   
 
 <!--
