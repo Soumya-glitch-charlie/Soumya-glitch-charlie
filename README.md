@@ -83,9 +83,11 @@
 ###
 [![Contributions](https://fabianocouto-activity-graph.vercel.app/graph/?username=Soumya-glitch-charlie&theme=merko)](https://github.com/Soumya-glitch-charlie)
 
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
+<p align="right">
+<b><i>Note:</i></b> <i>The top languages used in a developer's public code do not necessarily reflect their experience level or skill level on any grounds. </i>
+<br>
+<b><i>© 2023 Soumyadeep Das</i></b>
+</p>
 <!--
 **Soumya-glitch-charlie/Soumya-glitch-charlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
