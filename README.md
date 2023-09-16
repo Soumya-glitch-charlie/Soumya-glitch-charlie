@@ -62,7 +62,7 @@
   <h2>🔥 Streak Stats 🔥</h2>
 
   <!-- GitHub Readme Streak Stats - https://github.com/Soumya-glitch-charlie/github-readme-streak-stats -->
-  <p>
+  <p align="center">
     <a href="https://github.com/Soumya-glitch-charlie/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Soumyadeep's streak" src="https://streak-stats.demolab.com/?user=Soumya-glitch-charlie&theme=monokai-metallian&hide_border=true"/>
     </a>
