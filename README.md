@@ -25,7 +25,7 @@
   </a>
 </div>
 
-
+<!-- ------------------------------------------------------------------------------------------------------------------------------  --->
 
 - 🌟 I am currently pursuing B.TECH in Electronics and Comm. Engineering, learning to design and innovate cutting-edge technologies.
 
@@ -36,40 +36,38 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Soumyadeep-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadeep-das-b129971bb/)  [![Twitter Badge](https://img.shields.io/badge/-Soumyadeep-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kittu34823704/)  ![Gmail Badge](https://img.shields.io/badge/-soumyadeepdas0712@gmail.com-grey?style=flat&logo=gmail&logoColor=white)
 
 
-
+<!-- ------------------------------------------------------------------------------------------------------------------------------  --->
 
 <h2> :hammer_and_wrench: Languages and Tools : 
 </h2>
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS CODE" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="Cpp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MatLab"  alt="MatLab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" background-color="white" title="Raspberry Pi" alt="Raspberry Pi" zoom="30" width="50" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" background-color="white" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,cpp,html,css,js,figma,git,github,java,go,vscode"/>
+  </a>
+</p>
 
+<!-- ------------------------------------------------------------------------------------------------------------------------------  --->
 
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
+  
+<!-- ------------------------------------------------------------------------------------------------------------------------------  --->
 
 
+<!-- ------------------------------------------------------------------------------------------------------------------------------  --->
   <h2>🔥 Streak Stats 🔥</h2>
 
   <!-- GitHub Readme Streak Stats - https://github.com/Soumya-glitch-charlie/github-readme-streak-stats -->
-  <p align="center">
-    <a href="https://github.com/Soumya-glitch-charlie/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Soumyadeep's streak" src="https://streak-stats.demolab.com/?user=Soumya-glitch-charlie&theme=monokai-metallian&hide_border=true"/>
-    </a>
-    
+  <p align="center">&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=Soumya-glitch-charlie&show_icons=true&locale=en&theme=merko"/>
+  </p>    
 
+<!-- ------------------------------------------------------------------------------------------------------------------------------  --->
+
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------  --->
   <h2>💻 GitHub Profile Stats</h2>
-
 
  <div align="center">
 <table>
