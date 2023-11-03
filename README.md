@@ -33,7 +33,7 @@
 
 - :bulb: In my free time, I solve problems on GeeksforGeeks, Codechef, and HackerRank and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Soumyadeep-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadeep-das-b129971bb/)  [![Twitter Badge](https://img.shields.io/badge/-Soumyadeep-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kittu34823704/)  ![Gmail Badge](https://img.shields.io/badge/-soumyadeepdas0712@gmail.com-grey?style=flat&logo=gmail&logoColor=white)
+- :mailbox:How you can reach me: [![Linkedin Badge](https://img.shields.io/badge/-Soumyadeep-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadeep-das-b129971bb/)  [![Twitter Badge](https://img.shields.io/badge/-Soumyadeep-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kittu34823704/)  ![Gmail Badge](https://img.shields.io/badge/-soumyadeepdas0712@gmail.com-grey?style=flat&logo=gmail&logoColor=white)
 
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------  --->
