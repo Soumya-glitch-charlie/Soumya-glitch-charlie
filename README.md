@@ -27,9 +27,9 @@
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------  --->
 
-- 🌟 I am currently pursuing B.TECH in Electronics and Comm. Engineering, learning to design and innovate cutting-edge technologies.
+- 🌟 I have completed my B.TECH in Electronics and Communication Engineering, learning to design and innovate trendy technologies.
 
-- :mag_right: Exploring the vast realm of technology with curiosity and passion.
+- :mag_right: Exploring the vast realm of technology with my inner curiosity and passion.
 
 - :bulb: In my free time, I solve problems on GeeksforGeeks, Codechef, and HackerRank and read tech articles.
 
